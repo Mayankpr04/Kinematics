@@ -8,4 +8,8 @@ then run through the terminal with
 ```
 python3 ik_viz.py
 ```
+for inverse kinematics or for forward kinematics
+```
+python3 forwardk_viz.py
+```
 or through your IDE
